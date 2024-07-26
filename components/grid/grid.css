@@ -1,0 +1,19 @@
+
+.grid{
+
+    display:flex;
+    height:500px;
+   width:700px;
+flex-wrap:wrap;
+/* grid-template-columns: 1fr 1fr 1fr; */
+justify-content:space-between;
+align-items:center;
+
+}
+
+.turn-highlight{
+
+    color: white;
+
+}
+
